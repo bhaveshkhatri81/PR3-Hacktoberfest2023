@@ -1,5 +1,5 @@
 ---
-name: Bhavesh Khatri
+Name: Bhavesh Khatri
 institution/company: Guru Ghasidas Vishwavidyalaya
-github:bhaveshkhatri81/
+github: https://github.com/bhaveshkhatri81/
 ---
